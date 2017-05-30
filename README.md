@@ -3,10 +3,10 @@
 A system that allows the quantification of the germination of seeds of different species by means of image analysis
 
 Light box for image acquisition (version 1) 
-goo.gl/NVO8VB
+<goo.gl/NVO8VB>
 
 Image processing
-goo.gl/KsKGqe
+<goo.gl/KsKGqe>
 
 Developed by:
 MOLINA FAVERO Celeste (1)
