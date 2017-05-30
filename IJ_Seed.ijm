@@ -5,7 +5,7 @@
 // Licensed under GNU GENERAL PUBLIC LICENSE Version 3
 // https://github.com/gpereyrairujo/seed_phenotyping
 //
-// version 11 - May 2017
+// version 0.11 - May 2017
 //
 
 setBatchMode(true);  // <---- Do not show processing steps
