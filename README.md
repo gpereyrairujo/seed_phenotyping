@@ -16,3 +16,7 @@ PEREYRA IRUJO Gustavo (2,3)
 Contact:
 molinafavero.mc@inta.gob.ar
 pereyrairujo.gustavo@conicet.gov.ar
+
+License:
+Software: GPLv3
+Hardware: CERN OHL
