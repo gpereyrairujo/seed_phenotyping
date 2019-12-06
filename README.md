@@ -18,5 +18,5 @@ molinafavero.mc@inta.gob.ar
 pereyrairujo.gustavo@conicet.gov.ar
 
 License:
-Software: GPLv3
-Hardware: CERN OHL
+Software: GNU GPLv3
+Hardware: CERN OHLv1.2
