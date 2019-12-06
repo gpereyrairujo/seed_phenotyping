@@ -12,3 +12,5 @@ Materiales:
   - Tipo de alimentacion (individual)
 - Correderas: Corredera Telescópica Häfele 25 Cm Negra
 - Pintura: Aerosol negro mate Rust Oleum Ultra Cover
+
+Licencia: CERN OHL
